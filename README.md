@@ -27,6 +27,4 @@ The **Help Website Q&A Agent** is an AI-powered assistant that:
 
 ## 📥 Installation
 ### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/help-qa-agent.git
-cd help-qa-agent
+
