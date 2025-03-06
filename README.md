@@ -25,6 +25,5 @@ The **Help Website Q&A Agent** is an AI-powered assistant that:
 - **ChromaDB** (Vector database for fast retrieval)
 - **Streamlit** (For the web interface)
 
-## 📥 Installation
-### **1️⃣ Clone the Repository**
+
 
